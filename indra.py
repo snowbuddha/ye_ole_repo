@@ -1,0 +1,1 @@
+print("Indra (/ˈɪndrə/, Sanskrit: इन्द्र), also known as Devendra, is a Vedic deity in Hinduism,[2] a guardian deity in Buddhism,[3] and the king of the highest heaven called Saudharmakalpa in Jainism.")
